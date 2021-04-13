@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+## ui
+
+<p align="center">
+  <br>
+  <img  src="./images/ss1.png" alt="ui">
+  <img  src="./images/ss2.png" alt="ui2">
+  <br>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
