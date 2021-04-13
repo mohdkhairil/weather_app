@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
-## ui
+## UI
 
 <p align="center">
   <br>
-  <img  src="./images/ss1.png" alt="ui">
-  <img  src="./images/ss2.png" alt="ui2">
+  <img  width="200" src="./images/ss1.png" alt="ui">
+  <img  width="200" src="./images/ss2.png" alt="ui2">
   <br>
 </p>
 
